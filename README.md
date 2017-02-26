@@ -1,4 +1,4 @@
-# Notes
+## Notes
 This Boiler Plate (referenced throughout the app as BP | Bp | bp) is running the following stack:
 -   Webpack 2 
 -   ES2015 (ES6)
@@ -6,14 +6,14 @@ This Boiler Plate (referenced throughout the app as BP | Bp | bp) is running the
 -   Angular Material
 
 
-# Installation
+## Installation
 Follow these steps to install this app:
 -   Clone this repo from GIT
 -   cd to cloned directory
 -   npm install
 
 
-# Launch
+## Launch
 To launch the app in DevServer mode key in this command 
 -	npm run DevServer
 -	In browser key in the URL which the above command generated
@@ -29,7 +29,7 @@ To launch the host the app in Production mode follow this process
 ## License
 MIT License
 
-Copyright (c) 2017 SUMEET SETHI
+Copyright (c) 2017 SUMEET SETHI <sumeetsethi.asm@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
