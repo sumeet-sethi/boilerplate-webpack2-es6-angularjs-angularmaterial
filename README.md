@@ -15,7 +15,7 @@ Follow these steps to install this app:
 
 ## Launch
 To launch the app in DevServer mode key in this command 
--	npm run DevServer
+-	npm run dev
 -	In browser key in the URL which the above command generated
 
 To launch the host the app in Production mode follow this process
