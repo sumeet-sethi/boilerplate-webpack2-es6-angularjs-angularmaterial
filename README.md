@@ -23,9 +23,9 @@ To launch the app in DevServer mode key in this command
 
 To launch the host the app in Production mode follow this process
 -   npm run prod 
--   The above command will package and output files to dist folder </dist>
+-   The above command will package and output files to dist folder
 -	npm install http-server -g
--	http-server </dist> 
+-	http-server /path/to/dist
 -	In browser key in the URL which the above command generated
 
 
