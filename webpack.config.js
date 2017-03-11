@@ -24,6 +24,8 @@ const config = {
     new webpack.optimize.OccurrenceOrderPlugin()
   ],
   devServer: {
+	compress: true,
+    open: true,
     host: "GACDTL001SS369k", // Your Machine Name
     port: 8080
   },
