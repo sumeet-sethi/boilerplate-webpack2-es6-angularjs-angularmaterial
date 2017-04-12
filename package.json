@@ -1,7 +1,7 @@
 {
   "author": "Sumeet Sethi",
   "license": "MIT",
-  "name": "BP",
+  "name": "boilerplate-webpack2-es6-angularjs-angularmaterial",
   "version": "1.0.0",
   "description": "Boiler Plate served with Webpack2 | ES2015 | AngularJS | Angular Material",
   "main": "index.js",
