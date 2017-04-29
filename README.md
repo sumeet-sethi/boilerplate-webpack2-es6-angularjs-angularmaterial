@@ -3,8 +3,8 @@
 This Boiler Plate (referenced throughout the app as BP | Bp | bp) is running the following stack:
 -   Webpack 2 
 -   ES2015 (ES6)
--   AngularJS @ 1.5.11
--   Angular Material @ 1.1.3
+-   AngularJS
+-   Angular Material
 
 
 ## Installation
