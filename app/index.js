@@ -23,7 +23,8 @@ bpuiModule.controller('BpuiController', BpuiController);
 
 BpuiConfig.$inject = ['$stateProvider', '$mdThemingProvider'];
 function BpuiConfig($stateProvider, $mdThemingProvider) {
-    $mdThemingProvider.theme('default').primaryPalette('light-blue', {'default': '800'}).accentPalette('blue-grey').dark();
+    $mdThemingProvider.theme('default').primaryPalette('light-blue', { 'default': '800' });
+    $mdThemingProvider.theme('default').accentPalette('blue-grey', { 'default': '500' });
     $mdThemingProvider.theme("success-notification");
     $mdThemingProvider.theme("error-notification");
 

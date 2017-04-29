@@ -27,7 +27,8 @@ const config = {
     compress: true,
     open: true,
     host: "GACDTL001SS369k", // Your Machine Name
-    port: 8080
+    port: 8080,
+    disableHostCheck: true
   },
   devtool: "source-map"
 };
